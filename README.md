@@ -19,9 +19,6 @@ Welcome to my GitHub! I'm a full-stack developer passionate about building scala
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-## 📂 Projects
-
-Check out my repositories for some of my work in full-stack development, API design, and modern web applications.
 
 ## 📫 Connect with Me
 
