@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm MarckyDev 👋
 
-<!--
-**MarckyDev/MarckyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a full-stack developer passionate about building scalable web applications and modern user interfaces. I enjoy solving complex problems and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, NextJS, HTML, CSS, TypeScript
+- **Backend:** Python, Node.js, TypeScript
+- **Database:** MySQL, Prisma ORM
+- **Other:** REST APIs, Responsive Design, UI/UX principles
+
+## 🛠️ Tools & Technologies
+
+- NextJS
+- React
+- TypeScript
+- Prisma
+- MySQL
+- Python
+- HTML & CSS
+
+## 📂 Projects
+
+Check out my repositories for examples of my work in full-stack development, API design, and modern web applications.
+
+## 📫 Connect with Me
+
+- [Email](mailto:mapamarcrovic@gmail.com)
+
+---
+
+Thanks for visiting! Feel free to explore my code and reach out if you'd like to collaborate or just say hi.
