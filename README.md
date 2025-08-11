@@ -1,15 +1,15 @@
-# Hi, I'm MarckyDev 👋
+# Hi, I'm Marc!
 
 Welcome to my GitHub! I'm a full-stack developer passionate about building scalable web applications and modern user interfaces. I enjoy solving complex problems and learning new technologies.
 
-## 🚀 Skills
+## My Skills
 
 - **Frontend:** React, NextJS, HTML, CSS, TypeScript
 - **Backend:** Python, Node.js, TypeScript
 - **Database:** MySQL, Prisma ORM
 - **Other:** REST APIs, Responsive Design, UI/UX principles
 
-## 🛠️ Tools & Technologies
+## Tools that I Use
 
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a full-stack developer passionate about building scala
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📫 Connect with Me
+## Let's talk!
 
 - [Email](mailto:mapamarcrovic@gmail.com)
 
