@@ -1,13 +1,12 @@
-# Hi, I'm Marc!
+Hi, I'm Marc!
 
-Welcome to my GitHub! I'm a full-stack developer passionate about building scalable web applications and modern user interfaces. I enjoy solving complex problems and learning new technologies.
+I'm a full-stack developer, building scalable web applications and modern user interfaces.
 
 ## My Skills
 
-- **Frontend:** React, NextJS, HTML, CSS, TypeScript
+- **Frontend:** React, NextJS
 - **Backend:** Python, Node.js, TypeScript
-- **Database:** MySQL, Prisma ORM
-- **Other:** REST APIs, Responsive Design, UI/UX principles
+- **Database:** MySQL, SqLite
 
 ## Tools that I Use
 
@@ -20,7 +19,7 @@ Welcome to my GitHub! I'm a full-stack developer passionate about building scala
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Let's talk!
+## Socials
 
 - [Email](mailto:mapamarcrovic@gmail.com)
 
