@@ -4,7 +4,7 @@ I'm a full-stack developer, building scalable web applications and modern user i
 
 ## My Skills
 
-- **Frontend:** React, NextJS
+- **Frontend:** React
 - **Backend:** Python, Node.js, TypeScript
 - **Database:** MySQL, SqLite
 
