@@ -5,7 +5,7 @@ I'm a full-stack developer, building scalable web applications and modern user i
 ## My Skills 
 
 - **Frontend:** React
-- **Backend:** Python, Node.js, TypeScript
+- **Backend:** Python, Node.js, TypeScript, PHP
 - **Database:** MySQL, SqLite
 
 ##  Tools that I Use
@@ -19,6 +19,10 @@ I'm a full-stack developer, building scalable web applications and modern user i
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+ ## Other Programming Languages I use
+- C/C++
+- Java
  ## Socials
 
 - [Email](mailto:mapamarcrovic@gmail.com)
