@@ -8,26 +8,22 @@ I'm a full-stack developer, building scalable web applications and modern user i
 - **Backend:** Python, Node.js, TypeScript, PHP
 - **Database:** MySQL, SqLite
 
-## Web Development
 
-![Next.js](https://badgers.space/svg?icon=nextdotjs&label=Next.js&color=black)
-![React](https://badgers.space/svg?icon=react&label=React&color=20232A)
-![Prisma](https://badgers.space/svg?icon=prisma&label=Prisma&color=3982CE)
-![HTML5](https://badgers.space/svg?icon=html5&label=HTML5&color=E34F26)
-![Tailwind CSS](https://badgers.space/svg?icon=tailwindcss&label=Tailwind%20CSS&color=38B2AC)
+## Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Database
-
-![MySQL](https://badgers.space/svg?icon=mysql&label=MySQL&color=005C84)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Programming Languages
-
-![TypeScript](https://badgers.space/svg?icon=typescript&label=TypeScript&color=007ACC)
-![Python](https://badgers.space/svg?icon=python&label=Python&color=FFD43B)
-![C++](https://badgers.space/svg?icon=cplusplus&label=C%2B%2B&color=00599C)
-![Java](https://badgers.space/svg?icon=java&label=Java&color=ED8B00)
-
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
  ## Socials
