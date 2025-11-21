@@ -22,8 +22,8 @@ I'm a full-stack developer, building scalable web applications and modern user i
 ## Programming Languages
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=cpp&logoColor=blue)
-![image](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=Java&logoColor=orange)
+![image](https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=c++&logoColor=blue)
+![image](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=orange)
 
 
  ## Socials
