@@ -20,10 +20,11 @@ I'm a full-stack developer, building scalable web applications and modern user i
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Programming Languages
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-009ffd?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2a2a72)
+![Python](https://img.shields.io/badge/Python-9be15d?style=for-the-badge&logo=python&logoColor=white&labelColor=00e3ae)
+![C++](https://img.shields.io/badge/C++-6a11cb?style=for-the-badge&logo=c%2b%2b&logoColor=white&labelColor=2575fc)
+![Java](https://img.shields.io/badge/Java-f7971e?style=for-the-badge&logo=java&logoColor=white&labelColor=ffd200)
 
 
 
