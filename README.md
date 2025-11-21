@@ -10,8 +10,6 @@ I'm a full-stack developer, building scalable web applications and modern user i
 
 ## Web Development
 
-## Web Development
-
 ![Next.js](https://badgers.space/svg?icon=nextdotjs&label=Next.js&color=black)
 ![React](https://badgers.space/svg?icon=react&label=React&color=20232A)
 ![Prisma](https://badgers.space/svg?icon=prisma&label=Prisma&color=3982CE)
