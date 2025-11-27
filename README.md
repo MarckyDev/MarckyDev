@@ -2,13 +2,6 @@ Hi, I'm Marc! :honeybee::honey_pot:
 
 I'm a full-stack developer, building scalable web applications and modern user interfaces.
 
-## My Skills 
-
-- **Frontend:** React
-- **Backend:** Python, Node.js, TypeScript, PHP
-- **Database:** MySQL, SqLite
-
-
 ## Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
