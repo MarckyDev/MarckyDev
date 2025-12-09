@@ -20,10 +20,6 @@ I'm a full-stack developer, building scalable web applications and modern user i
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
- ## Socials
-
-- [Email](mailto:mapamarcrovic@gmail.com)
-
 ---
 
 Thanks for visiting! Feel free to explore my code and reach out if you'd like to collaborate or just say hi.
